@@ -1,10 +1,24 @@
-# TourOfHeroes
+# Project
+This project is part of [Angular Docs](https://angular.io/tutorial/tour-of-heroes) to generate a first contact with Angular.
+
+# Environment Setup
+## Requirements
+- Node.JS
+- NPM
+
+## Angular CLI
+Angular CLI do a lot of boilerplating for us... so let's install it
+- `npm install -g @angular/cli` you might need to do run it as `sudo`
+
+# Initial project Setup
+- `ng new`
+- `ng new <project's name>`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve --open` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
